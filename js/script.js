@@ -1,5 +1,5 @@
 tippy('#instagram', {
-  content: 'ig._.anubhab',
+  content: '1am_anubhab',
 });
 tippy('#steam', {
   content: 'ANUBH4B',
