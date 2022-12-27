@@ -17,7 +17,7 @@ tippy('#twitter', {
   content: 'ANUBH4B',
 });
 tippy('#youtube', {
-  content: 'MaxPlayz',
+  content: 'ANUBH4B PlayZ',
 });
 tippy('#email', {
   content: 'contact@anubh4b.xyz',
